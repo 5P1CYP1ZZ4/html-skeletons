@@ -4,3 +4,8 @@ html. h1 {
     margin: 0;
     font-family: Orbitron;
 }
+.navbar-top-buttons-active {
+    border: solid 5px red;
+    border-radius: 20%;
+    background-color: aqua;
+}
