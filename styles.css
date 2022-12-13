@@ -14,6 +14,12 @@ html {
     text-decoration: none;
 
 }
+.content-area-001 {
+    margin: 50px;
+    background-color: #ffff;
+    border: solid 4px #000;
+    border-radius: 20px;
+}
 .footer-link-right-001 {
 
 }
