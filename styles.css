@@ -16,6 +16,7 @@ html {
 }
 .content-area-001 {
     margin: 50px;
+    padding: 10px;
     background-color: #ffff;
     border: solid 4px #000;
     border-radius: 20px;
