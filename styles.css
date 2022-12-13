@@ -1,12 +1,16 @@
-html. h1 {
-    background-color: black;
-    color: white;
+html {
+    background-color: #d9e7ff;
+    color: #000;
     margin: 0;
-    font-family: Orbitron;
 }
-.navbar-top-buttons-active {
-    border: solid 5px red;
-    border-radius: 20%;
-    background-color: aqua;
+.navbar-top-001 {
+    background: transparent;
+    margin: 0;
     text-decoration: none;
+}
+.navbar-top-links-title-001 {
+    background-color: transparent;
+    color: #000;
+    text-decoration: none;
+
 }
