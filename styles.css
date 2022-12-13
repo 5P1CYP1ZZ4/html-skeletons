@@ -7,6 +7,7 @@ html {
     background: transparent;
     margin: 0;
     text-decoration: none;
+    position: fixed;
 }
 .navbar-top-links-title-001 {
     background-color: transparent;
@@ -30,6 +31,9 @@ html {
     float: left;
     background-color: transparent;
     color: #000;
+}
+.footer-001 {
+    position: fixed;
 }
 .footer-link-right-001 {
 
