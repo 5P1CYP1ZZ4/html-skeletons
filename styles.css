@@ -20,6 +20,16 @@ html {
     border: solid 4px #000;
     border-radius: 20px;
 }
+.primary-content-001 {
+    float: right;
+    background-color: transparent;
+    color: #000;
+}
+.adbar-001 {
+    float: left;
+    background-color: transparent;
+    color: #000;
+}
 .footer-link-right-001 {
 
 }
